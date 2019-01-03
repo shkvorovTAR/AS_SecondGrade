@@ -3,6 +3,7 @@
 TARgv17_Homeworks: Exercises 1-3 / LoanApp
 
 https://github.com/hnagel413/Homework-assignments
+
 https://github.com/hnagel413/Loan_app
 1. Create functions getDouble, getInt
 2. Add static to method getInstance of Loan class, because it is Singleton class
